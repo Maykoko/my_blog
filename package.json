@@ -1,0 +1,20 @@
+{
+  "name": "my_blog",
+  "version": "1.0.0",
+  "description": "```\r npm init -y    初始化文件\r npm install express 下载文件\r npm install ejs    使用 ejs 模板引擎\r npm i bootstrap@3 指定3系版本\r npm i jquery     bt是在juery基础上\r npm i moment 时间格式化\r npm i mysql 链接数据库\r ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maykoko/my_blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maykoko/my_blog/issues"
+  },
+  "homepage": "https://github.com/Maykoko/my_blog#readme"
+}
